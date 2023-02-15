@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\farmLab05.props" />
+</Project>
