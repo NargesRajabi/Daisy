@@ -1,0 +1,21 @@
+﻿<Window x:Class="toDoWpf.AddAct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:toDoWpf"
+        mc:Ignorable="d"
+        Title="AddAct" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Adding Activity" HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top" Height="55" Width="143" RenderTransformOrigin="0.242,0.51" FontSize="18"/>
+        <DatePicker x:Name="dateTime" HorizontalAlignment="Left" Margin="11,282,0,0" VerticalAlignment="Top" Height="41" Width="145" FontSize="16"/>
+        <Label Content="Enter activity:" HorizontalAlignment="Left" Margin="0,129,0,0" VerticalAlignment="Top" Height="41" Width="116" FontSize="16"/>
+        <Button x:Name="Add" Content="Add Activity" HorizontalAlignment="Left" Margin="227,322,0,0" VerticalAlignment="Top" Height="40" Width="113" FontSize="18" Click="Add_Click"/>
+        <Label Content="Enter Id:" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.315,0.352" Width="98" FontSize="16"/>
+        <TextBox x:Name="id" HorizontalAlignment="Left" Margin="96,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Height="30"/>
+        <TextBox x:Name="activity" HorizontalAlignment="Left" Margin="121,129,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="253" Height="120"/>
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="408,63,10,164"/>
+        <Button x:Name="viewData" Content="View Data" HorizontalAlignment="Left" Margin="488,323,0,0" VerticalAlignment="Top" Height="39" Width="222" FontSize="16" Click="viewData_Click"/>
+
+    </Grid>
+</Window>

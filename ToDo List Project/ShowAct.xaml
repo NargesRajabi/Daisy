@@ -1,0 +1,15 @@
+﻿<Window x:Class="toDoWpf.ShowAct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:toDoWpf"
+        mc:Ignorable="d"
+        Title="ShowAct" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="334,30,36,123"/>
+        <Label Content="Show All Activities" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="36" Width="132" FontSize="18"/>
+        <Button x:Name="showAct" Content="Show All" HorizontalAlignment="Left" Margin="30,131,0,0" VerticalAlignment="Top" Height="40" Width="163" FontSize="16" Click="showAct_Click"/>
+
+    </Grid>
+</Window>
