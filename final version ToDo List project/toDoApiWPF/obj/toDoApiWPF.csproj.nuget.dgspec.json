@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\toDoApiWPF.csproj": {}
+    "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\toDoApiWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\toDoApiWPF.csproj": {
+    "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\toDoApiWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\toDoApiWPF.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\toDoApiWPF.csproj",
         "projectName": "toDoApiWPF",
-        "projectPath": "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\toDoApiWPF.csproj",
+        "projectPath": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\toDoApiWPF.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

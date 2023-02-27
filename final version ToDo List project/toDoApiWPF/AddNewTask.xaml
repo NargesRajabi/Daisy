@@ -8,7 +8,7 @@
         Title="AddNewTask" Height="450" Width="800">
     <Grid Background="LightSteelBlue">
         <Button x:Name="Home" Content="Home" HorizontalAlignment="Left" Margin="33,41,0,0" VerticalAlignment="Top" Height="35" Width="101" Background="AliceBlue" Click="Home_Click"/>
-        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="178,41,103,217" Background="LightSteelBlue"/>
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{Binding Path=LoadDataBinding}" Margin="178,41,103,217" Background="LightSteelBlue"/>
         <TextBox x:Name="activity" HorizontalAlignment="Left" Margin="240,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Height="86" Background="AliceBlue"/>
         <TextBox x:Name="dateTm" HorizontalAlignment="Left" Margin="240,382,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Height="23" Background="AliceBlue"/>
         <TextBox x:Name="id" HorizontalAlignment="Left" Margin="240,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" Background="AliceBlue"/>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahar\\source\\repos\\final version project app\\WebApplication1\\toDoApi.csproj": {}
+    "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\WebApplication1\\toDoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahar\\source\\repos\\final version project app\\WebApplication1\\toDoApi.csproj": {
+    "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\WebApplication1\\toDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\source\\repos\\final version project app\\WebApplication1\\toDoApi.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\WebApplication1\\toDoApi.csproj",
         "projectName": "toDoApi",
-        "projectPath": "C:\\Users\\sahar\\source\\repos\\final version project app\\WebApplication1\\toDoApi.csproj",
+        "projectPath": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\WebApplication1\\toDoApi.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\source\\repos\\final version project app\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

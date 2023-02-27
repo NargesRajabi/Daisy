@@ -18,6 +18,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Xml.Linq;
+using toDoApi.Models;
 using toDoApiWPF.Models;
 using Task = toDoApiWPF.Models.Task;
 
@@ -106,7 +107,6 @@ namespace toDoApiWPF
 
         private void viewData_Click(object sender, RoutedEventArgs e)
         {
-
             try
             {
                 string connectionString =

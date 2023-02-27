@@ -9,6 +9,7 @@
     <Grid Background="#FFF0F1B9">
         <Label Content="welcome to Daisy " HorizontalAlignment="Left" Margin="52,35,0,0" VerticalAlignment="Top" Height="76" Width="397" FontSize="50" FontFamily="Bradley Hand ITC" FontWeight="Bold" FontStyle="Italic"/>
         <Button x:Name="addtask" Content="Task" HorizontalAlignment="Left" Margin="193,0,0,0" VerticalAlignment="Center" Height="49" Width="363" Background="#FFC2BDAF" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Bold" Click="addtask_Click"/>
+        <Button x:Name="Bill" Content="Bill" HorizontalAlignment="Left" Margin="193,295,0,0" VerticalAlignment="Top"  Height="49" Width="363" Background="#FFC2BDAF" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Bold" Click="Bill_Click"/>
 
     </Grid>
 </Window>

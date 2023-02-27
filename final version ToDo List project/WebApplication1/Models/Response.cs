@@ -10,6 +10,7 @@
 
         public List<Task> listTasks { get; set;}
 
-      
+      //  public Bill bills { get; set; }
+       // public List<Bill> Bills { get; set; }
     }
 }

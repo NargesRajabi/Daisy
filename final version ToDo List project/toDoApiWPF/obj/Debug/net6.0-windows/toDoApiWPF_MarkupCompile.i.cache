@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\sahar\source\repos\final version project app\toDoApiWPF\obj\Debug\net6.0-windows\
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\
 toDoApiWPF
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\sahar\source\repos\final version project app\toDoApiWPF\App.xaml
-2-663558173
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\App.xaml
+36920227
 
-81187920321
+11-1376860372
 195495100157
-AddNewTask.xaml;MainWindow.xaml;
+addBill.xaml;AddNewTask.xaml;MainWindow.xaml;
 
 False
 

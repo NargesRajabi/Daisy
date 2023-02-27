@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UF1sjtBYZ8yBUy7fkdnVEIWJm8rij4xuoDx6fIeg9w6Uzl5mYkVzj0tmIbdDsjA1Aqj7cY0knlBRjXK2Ftu8iA==",
+  "dgSpecHash": "7YRmMs0HufD9Le4FjfwYgkbSTa3D5xkTOXwz6W7sbqqPtgkinQzj2cbHKqhG/6gBPAr7QXT/HgVrYaTNF2NcaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sahar\\source\\repos\\final version project app\\toDoApiWPF\\toDoApiWPF.csproj",
+  "projectFilePath": "C:\\Users\\sahar\\source\\repos\\final version ToDo List project\\toDoApiWPF\\toDoApiWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahar\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\sahar\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -31,5 +31,12 @@ namespace toDoApiWPF
             addNewTask.Show();
             this.Close();
         }
+
+        private void Bill_Click(object sender, RoutedEventArgs e)
+        {
+            addBill addBill = new addBill();
+            addBill.Show();
+            this.Close();
+        }
     }
 }
